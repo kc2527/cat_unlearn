@@ -13,8 +13,6 @@ Code, data, analysis outputs, and manuscript files for the paper:
   - `util_func_dbm.py` - decision-bound model (DBM) fitting and likelihood functions
   - `util_func_wrangle.py` - data loading and DBM-result wrangling helpers
   - `util_func_stimcat.py` - stimulus generation and grating utilities
-  - `make_example_trials_fig.py` - standalone example-trials figure script
-  - `generate_example_trial.py` - standalone raster example-trial image builder
   - `run_exp.py` - experiment runtime used to generate subject CSVs
 
 - **data/**
